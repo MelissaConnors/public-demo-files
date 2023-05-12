@@ -1,0 +1,7 @@
+name,sedol,date,gc,esg,esg_e,esg_g,economic_sector,industry,dom_region
+Company ABC,DEMOABC,10/2/19,43.2735,30.8125,43.945,16.626,Health Technology,Pharmaceuticals: Major,Europe
+Company ABC,DEMOABC,10/4/19,43.2735,30.8125,43.945,16.626,Health Technology,Pharmaceuticals: Major,Europe
+Company XYZ,DEMOXYZ,10/2/19,50.677,44.217,54.2895,32.1215,Electronic Technology,Semiconductors,Europe
+Company XYZ,DEMOXYZ,10/4/19,50.677,44.2085,54.2895,32.096,Electronic Technology,Semiconductors,Europe
+Company 123,DEMO123,10/2/19,34.51,40.562,30.005,49.47,Health Technology,Biotechnology,North America
+Company 123,DEMO123,10/4/19,34.51,40.562,30.005,49.4615,Health Technology,Biotechnology,North America
